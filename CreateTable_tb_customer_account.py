@@ -9,7 +9,7 @@ cursor.execute("DROP TABLE IF EXISTS tb_customer_account")
 # Create new table
 
 sql = """CREATE TABLE tb_customer_account (
- id_customer tinyint(6) NOT NULL AUTO_INCREMENT,
+ id_customer INT(11),,
 cpf_cnpj INT(11) ,
 nm_customer varchar(30) NOT NULL,
 is_active varchar(30),
