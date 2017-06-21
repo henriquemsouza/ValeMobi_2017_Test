@@ -1,4 +1,4 @@
-#__ValeMobi 2017 TestBack__
+#  __ValeMobi 2017 TestBack__
 
 ** 1- Vamos criar uma tabela na base de dados chamada tb_customer_account.
 id_customer – Identificação unica do cliente.
@@ -23,3 +23,7 @@ seja maior que 560 e o campo id_customer esteja entre 1500 e 2700.Exiba a média
 
 ** 4-Imprima cada um dos clientes utilizados para o cálculo da média, ordenando do maior para o menor saldo.
 4-R - DisplayNames.py
+
+
+
+**Ajuda  para que os scripts funcionem é necessesario colocar as informaçoes de  login do banco de dados**
